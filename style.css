@@ -86,7 +86,7 @@ button {
 
 
 .img {
-    background-image: url("../images/container--1img.avif");
+    background-image: url("/images/container--1img.avif");
     width: 400px;
     height: 200px;
     background-size: cover;
